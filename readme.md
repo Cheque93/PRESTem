@@ -18,42 +18,27 @@ If your matlab version is R2020b, run the PRESTem.exe file, otherwise run the My
  
 <img src= "././imgs/parameter.png" width="50%" height="50%">
   
-4. Press the Click button or Drag add button to segment atoms.
-
-    As for the Click button function, the left mouse button is an add function, the right mouse button is a remove function, and the mouse wheel button or the esc key is an end function.
+4. Press the Click button or Drag add button to segment atoms.   
+   As for the Click button function, the left mouse button is an add function, the right mouse button is a remove function, and the mouse wheel button or the esc key is an end function.
 <img src= "././imgs/segmentation.png" width="50%" height="50%">
- 
 </br> 
 5. Press the Select button and drag to select a unit cell.
 <img src= "././imgs/select.png" width="50%" height="50%">
  
  
 6. Enter the atomic information of the unit cell.   
-    Atomic selection works the same way as a click button.
+   Atomic selection works the same way as a click button.
 <img src= "././imgs/select_2.png" width="50%" height="50%">
 
+7. Check that the atomic information is entered correctly and click the Run button.   
+   If the atomic peak is not correct, please press the Reg button.
+<img src= "././imgs/run.png" width="50%" height="50%">
 
+8. The Analysis Results window appears.   
+   If the atomic peak is wrong, correct it and click the run button again.   
+   If you also selected the ABF image, press the ABF button, and then press the Run button again.
 
-Files to Package for Standalone 
-================================
--GUI_210830.exe
--MCRInstaller.exe 
-    Note: if end users are unable to download the MATLAB Runtime using the
-    instructions in the previous section, include it when building your 
-    component by clicking the "Runtime included in package" link in the
-    Deployment Tool.
--This readme file 
-
-
-
-3. Definitions
-
-For information on deployment terminology, go to
-https://www.mathworks.com/help and select MATLAB Compiler >
-Getting Started > About Application Deployment >
-Deployment Product Terms in the MathWorks Documentation
-Center.
-
+<img src= "././imgs/run_2.png" width="80%" height="80%">
 
 
 
