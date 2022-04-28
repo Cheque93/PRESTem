@@ -1,13 +1,10 @@
-GUI_210830 Executable
+# PRESTem
 
-1. Prerequisites for Deployment 
+If your matlab version is R2020b, run the PRESTem.exe file, otherwise run the MyAppInstaller_web.exe file.
 
-Verify that version 9.9 (R2020b) of the MATLAB Runtime is installed.   
-If not, you can run the MATLAB Runtime installer.
-To find its location, enter
-  
-    >>mcrinstaller
-      
+## Usage
+
+
 at the MATLAB prompt.
 NOTE: You will need administrator rights to run the MATLAB Runtime installer. 
 
