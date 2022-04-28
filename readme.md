@@ -1,23 +1,38 @@
-# PRESTem
+# PRESTem   
 
-If your matlab version is R2020b, run the PRESTem.exe file, otherwise run the MyAppInstaller_web.exe file.
-
-## Usage
+If your matlab version is R2020b, run the PRESTem.exe file, otherwise run the MyAppInstaller_web.exe file.   
 
 
-at the MATLAB prompt.
-NOTE: You will need administrator rights to run the MATLAB Runtime installer. 
+## Usage   
 
-Alternatively, download and install the Windows version of the MATLAB Runtime for R2020b 
-from the following link on the MathWorks website:
+1. Click the Menu toolbar and press the File Open button   
+<img src= "././imgs/file_open.png" width="50%" height="50%">
 
-    https://www.mathworks.com/products/compiler/mcr/index.html
    
-For more information about the MATLAB Runtime and the MATLAB Runtime installer, see 
-"Distribute Applications" in the MATLAB Compiler documentation  
-in the MathWorks Documentation Center.
+2. Select the image you want to analyze.   
 
-2. Files to Deploy and Package
+    If you want to analyze ABF and HAADF images at the same time, please select images at the same time.   
+    
+        
+3. Enter the parameters of the image.
+ 
+<img src= "././imgs/parameter.png" width="50%" height="50%">
+  
+4. Press the Click button or Drag add button to segment atoms.
+
+    As for the Click button function, the left mouse button is an add function, the right mouse button is a remove function, and the mouse wheel button or the esc key is an end function.
+<img src= "././imgs/segmentation.png" width="50%" height="50%">
+ 
+</br> 
+5. Press the Select button and drag to select a unit cell.
+<img src= "././imgs/select.png" width="50%" height="50%">
+ 
+ 
+6. Enter the atomic information of the unit cell.   
+    Atomic selection works the same way as a click button.
+<img src= "././imgs/select_2.png" width="50%" height="50%">
+
+
 
 Files to Package for Standalone 
 ================================
