@@ -40,5 +40,7 @@ If your matlab version is R2020b, run the PRESTem.exe file, otherwise run the My
 
 <img src= "././imgs/run_2.png" width="80%" height="80%">
 
+   The analysis results are saved in the result folder.
+   
 
 
