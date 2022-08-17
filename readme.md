@@ -31,12 +31,13 @@ If your matlab version is R2020b, run the PRESTem.exe file, otherwise run the My
 <img src= "././imgs/select_2.png" width="50%" height="50%">
 
 7. Check that the atomic information is entered correctly and click the Run button.   
-   If the atomic peak is not correct, please press the Reg button.
+   If the atomic peak is not correct, please press the Re Seg button.
 <img src= "././imgs/run.png" width="50%" height="50%">
 
 8. The Analysis Results window appears.   
    If the atomic peak is wrong, correct it and click the run button again.   
    If you also selected the ABF image, press the ABF button, and then press the Run button again.
+   For more accurate analysis, it is recommended to press the ABF button and then the Re Seg button before pressing the RUN button.
 
 <img src= "././imgs/run_2.png" width="80%" height="80%">
 
