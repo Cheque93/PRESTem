@@ -17,6 +17,12 @@ If your matlab version is R2020b, run the PRESTem.exe file, otherwise run the My
 3. Enter the parameters of the image.
  
 <img src= "././imgs/parameter.png" width="50%" height="50%">
+
+   If you don't know the exact parameters, fill in with 0 and press OK button.
+<img src= "././imgs/parameter_2.png" width="50%" height="50%">
+<img src= "././imgs/parameter_3.png" width="50%" height="50%">
+   Then, crop the unit cell into the main figure.
+<img src= "././imgs/unit_cell.png" width="50%" height="50%">
   
 4. Press the Click button or Drag add button to segment atoms.   
    As for the Click button function, the left mouse button is an add function, the right mouse button is a remove function, and the mouse wheel button or the esc key is an end function.
