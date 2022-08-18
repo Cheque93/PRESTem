@@ -16,11 +16,13 @@ If your matlab version is R2020b, run the PRESTem.exe file, otherwise run the My
         
 3. Enter the parameters of the image.
  
-<img src= "././imgs/parameter.png" width="50%" height="50%">
+<img src= "././imgs/parameter.png" width="30%" height="30%">
 
    If you don't know the exact parameters, fill in with 0 and press OK button.
-<img src= "././imgs/parameter_2.PNG" width="50%" height="50%">
-<img src= "././imgs/parameter_3.PNG" width="50%" height="50%">
+<img src= "././imgs/parameter_2.PNG" width="30%" height="30%">
+ 
+<img src= "././imgs/parameter_3.PNG" width="30%" height="30%">
+
    Then, crop the unit cell into the main figure.
 <img src= "././imgs/unit_cell.PGN" width="50%" height="50%">
   
