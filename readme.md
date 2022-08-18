@@ -18,13 +18,13 @@ If your matlab version is R2020b, run the PRESTem.exe file, otherwise run the My
  
 <img src= "././imgs/parameter.png" width="30%" height="30%">
 
-   If you don't know the exact parameters, fill in with 0 and press OK button.
+   If you don't know the exact parameters of the structure, fill in with 0 and press OK button.
    
 <img src= "././imgs/parameter_2.PNG" width="30%" height="30%">
  
 <img src= "././imgs/parameter_3.PNG" width="30%" height="30%">
 
-   Then, crop the unit cell into the main figure.
+   Then, crop the unit cell into the main figure. pm/pixel is set to 10 and lattice is set to cropped unit cell size.
 <img src= "././imgs/unit_cell.PNG" width="50%" height="50%">
   
 4. Press the Click button or Drag add button to segment atoms.   
